@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Audio files (store transcripts only)
+*.mp3
+*.m4a
+*.wav
+*.aac
+
+# Temp files
+*.tmp
+*.temp
+.temp/
+
+# Python (if scripts added later)
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Notion exports
+*.zip
+
+# Local config
+.env
+config.local.json
