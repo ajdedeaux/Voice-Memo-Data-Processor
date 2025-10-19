@@ -69,7 +69,7 @@ But she's also seeing that this could slow me down being in the halfway house. S
 
 ## Context
 
-- Related to: May 19, 2023 (day after first journal entry), payday Friday, halfway house, case manager relationship, ankle monitor approval, weekend passes, home confinement possibility, uncle mentorship, bro Ease (prison friend who gave advice)
-- References: bro Ease ("it ain't that hard"), case manager, ankle monitor, weekend passes, home confinement, uncle (needs in-person building), Zoom (insufficient for work), traffic/lateness protocol, credibility checks, 30 days of doing right thing
-- Time period: May 19, 2023 at 7:43 AM—31 days post-release (April 19 + 31 days), day after first journal entry
-- Connects to: year and a half prison transformation, clear conduct (first time), ownership/accountability shift, external validation as proof of change, mental/spiritual freedom, case manager testing, building trust through consistency, weekend passes for uncle work, home confinement trajectory
+- Related to: May 19, 2023 (day after first journal entry), payday Friday, halfway house, case manager relationship, ankle monitor approval, weekend passes, home confinement possibility, uncle mentorship, bro Ease (prison friend at Safford FCI during COVID era who gave "it ain't that hard" advice that stopped speaker's pattern of always getting in trouble)
+- References: bro Ease (Safford FCI, COVID era ~2020-2021), case manager, ankle monitor, weekend passes, home confinement, uncle (needs in-person building), Zoom (insufficient for work), traffic/lateness protocol, credibility checks, 30 days of doing right thing post-release
+- Time period: May 19, 2023 at 7:43 AM—31 days post-release (April 19 + 31 days), day after first journal entry, reflecting on year-and-a-half transformation that began in prison
+- Connects to: year and a half prison transformation (last portion of sentence), Safford FCI Arizona where Ease conversation happened during COVID era, clear conduct (first time), victim mentality shift to ownership/accountability, external validation as proof of change, mental/spiritual freedom, case manager testing, building trust through consistency, weekend passes for uncle work, home confinement trajectory
