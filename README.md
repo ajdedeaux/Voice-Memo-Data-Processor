@@ -1,4 +1,3 @@
-```markdown
 # Voice Memos Repository
 
 A structured repository for storing processed voice memo transcripts in machine-readable markdown format.
@@ -35,7 +34,6 @@ YYYYMMDD_Category_KeyTopic.md
 ## File Structure
 
 Each markdown file contains:
-
 ```markdown
 ---
 date: YYYY-MM-DD
@@ -63,7 +61,6 @@ status: raw
 See `TEMPLATE.md` for the complete template.
 
 ## Folder Organization
-
 ```
 transcripts/
 └── YYYY/
@@ -86,9 +83,30 @@ transcripts/
 
 1. **Record** - Capture voice memo on phone
 2. **Transcribe** - Get text transcript
-3. **Process** - Run through Voice Memo Data Processor GPT
-4. **Save** - Save as `.md` file with proper naming
+3. **Process** - Upload `PROCESSING_INSTRUCTIONS.md` to Claude, paste transcript
+4. **Save** - Save output as `.md` file with proper naming in transcripts folder
 5. **Commit** - Push to this repository
+
+### Processing with Claude
+
+Open a new Claude chat and say:
+```
+Read PROCESSING_INSTRUCTIONS.md and follow those instructions exactly. 
+Process this transcript: [paste transcript here]
+```
+
+Claude will output a clean, structured markdown file ready to save.
+
+## Processing Instructions
+
+See `PROCESSING_INSTRUCTIONS.md` for the complete guide on how to process voice memo transcripts. This file contains:
+- Step-by-step processing rules
+- Output template structure
+- Voice preservation guidelines
+- Tag generation rules
+- Quality checklist
+
+Upload this file to Claude (or any AI) to enable consistent transcript processing.
 
 ## Usage
 
@@ -114,4 +132,3 @@ This is a personal repository. Files are added as voice memos are processed.
 ---
 
 **Last Updated:** October 2025
-```
